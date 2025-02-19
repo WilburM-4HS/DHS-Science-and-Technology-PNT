@@ -12,12 +12,13 @@ The Infrastructure Investment and Jobs Act became Public Law #117-58 on Nov. 15,
 3.	Positioning, navigation, and timing (PNT) capabilities;
 4.	Evaluation of “soft target” security for public safety, including countering improvised explosive device events and protection of U.S. CI;
 5.	Research supporting security testing capabilities relating to telecommunications equipment, industrial control systems (ICS), and open-source software.
-S&T has created the Critical Infrastructure Security and Resilience Research (CISRR) Program to oversee activities performed under the Infrastructure Act and report to Congress on the progress of CISRR R&D activities.
- 
 
 <b>IMPACT OF CISRR</b>
 
+S&T has created the Critical Infrastructure Security and Resilience Research (CISRR) Program to oversee activities performed under the Infrastructure Act and report to Congress on the progress of CISRR R&D activities.
+
 CISRR will accomplish strategic objectives defined through S&T and DHS Cybersecurity and Infrastructure Security Agency coordination:
+
 -Ensure effective physical security at Special Event Assessment Rating events;
 
 -Improve our understanding of the effects of EMP/GMD events on communications infrastructure;
